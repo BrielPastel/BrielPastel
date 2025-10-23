@@ -54,8 +54,8 @@ https://github.com/user-attachments/assets/55287366-ab14-46e6-9894-9cb99ce608a2
 </p>
 
 <p align="center">
-  <img height="30px" src="https://forthebadge.com/images/badges/it-works-dont-ask-me-how.svg">
-  <img height="30px" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg">
-  <img height="30px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
-  <img height="30px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
+  <img height="25px" src="https://forthebadge.com/images/badges/it-works-dont-ask-me-how.svg">
+  <img height="25px" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg">
+  <img height="25px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
+  <img height="25px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
 </p>
