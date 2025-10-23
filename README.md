@@ -1,6 +1,8 @@
 # Olá
 ## Meu nome é Gabriel e eu amo códigos, games e música!
 
+Eu moro na cidade de Curitiba, Paraná. Estou graduando em Ciências da Computação na <a href="https://www.pucpr.br">PUCPR</a> (jan/2023 - jan/2027).
+
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpkd2Vucm5xOHl5ZTdwN3JxczV4ZjA3M3g0czEwcnh2dmhmaWdsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" />
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Gabriel+Berto+Beckauser;Software/Game+Dev;Mago+dos+códigos" />
