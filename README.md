@@ -1,5 +1,5 @@
 # Olá
-## Meu nome é Gabriel e eu amo códigos e games!
+## Meu nome é Gabriel e eu amo códigos, games e música!
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpkd2Vucm5xOHl5ZTdwN3JxczV4ZjA3M3g0czEwcnh2dmhmaWdsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" />
 <br/>
