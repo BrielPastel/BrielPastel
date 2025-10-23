@@ -26,20 +26,20 @@ https://github.com/user-attachments/assets/55287366-ab14-46e6-9894-9cb99ce608a2
 <br/>
 
 ### Icecream Delivery
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/47d07412-8e3e-4f69-9953-de4e105f165c" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ba4a78e3-6bba-4fc2-8b04-1080af22c478" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/47d07412-8e3e-4f69-9953-de4e105f165c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ba4a78e3-6bba-4fc2-8b04-1080af22c478" />
 
 <br/>
 
 ### Snow Surfer
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/1acbb05e-7113-4cda-818c-c655a4e30b8c" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/fe5e6404-df4e-4ae0-b82b-118d45c289bc" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1acbb05e-7113-4cda-818c-c655a4e30b8c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fe5e6404-df4e-4ae0-b82b-118d45c289bc" />
 
 <br/>
 
 ### Tilemania
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/8fbc31cb-c2ce-4617-bccb-7c1f528b61b5" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/29a5d161-783a-4b53-912c-b10fe739077b" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8fbc31cb-c2ce-4617-bccb-7c1f528b61b5" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/29a5d161-783a-4b53-912c-b10fe739077b" />
 
 <br/>
 
