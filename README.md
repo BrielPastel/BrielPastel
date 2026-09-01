@@ -7,7 +7,6 @@ Eu moro na cidade de Curitiba, Paraná. Estou graduando em Ciências da Computa�
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Gabriel+Berto+Beckauser;Software/Game+Dev;Mago+dos+códigos" />
 <ul>
-  <li> 💻 Estou atualmente buscando um estágio! </li>
   <li> 🎓 Eu curso Bacharelado em Ciências da Computação na <a href="https://www.pucpr.br">PUCPR</a> </li>
   <li> 🤖 Também gosto de robôs, ja participei de competição de robôs e fiz alguns na faculdade! </li>
   <li> ✨ Meu projeto secundário favorito é o <a href="https://github.com/BrielPastel/Game-2-Snow-Surfer">Snow Surfer</a> </li>
