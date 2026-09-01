@@ -9,7 +9,7 @@ Eu moro na cidade de Curitiba, Paraná. Estou graduando em Ciências da Computa�
 <ul>
   <li> 🎓 Eu curso Bacharelado em Ciências da Computação na <a href="https://www.pucpr.br">PUCPR</a> </li>
   <li> 🤖 Também gosto de robôs, ja participei de competição de robôs e fiz alguns na faculdade! </li>
-  <li> ✨ Meu projeto secundário favorito é o <a href="https://github.com/BrielPastel/Game-2-Snow-Surfer">Snow Surfer</a> </li>
+  <li> ✨ Minha música favorita atualmente é <a href="https://youtu.be/h6mnfec7bTc">Billie Bossa Nova</a> </li>
   <li> 🔭 Meu mais novo projeto ainda está escondido nas sombras 🤫 </li>
   <li> 📫 Como me contatar: <a href="mailto: gabri.0849@gmail.com">gabri.0849@gmail.com</a> </li>
 </li>
