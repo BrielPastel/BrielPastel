@@ -45,7 +45,11 @@ https://github.com/user-attachments/assets/55287366-ab14-46e6-9894-9cb99ce608a2
 <br/>
 
 ## Spotify Live View
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=clau.mar.gab&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=clau.mar.gab&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
 
 ## Visitor Count
 <img src = "https://github-vistors-counter.onrender.com/github?username=<BrielPastel>" alt = "Visitors-Counter"/>
